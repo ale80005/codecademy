@@ -1,0 +1,37 @@
+body{
+	background-color:#7f7f85;
+}
+.titles {
+	font-family: Palatino;
+	text-align: center;
+	color: #F8E5E5;
+}
+li {
+	font-family: Palatino;
+	color: #B0C7DF;
+}
+div {
+	font-family: Palatino;
+	color:#F8E5E5;
+	text-align: center;
+}
+img {
+	height: 250px;
+	width: 250px;
+}
+.picsl {
+	/*display: block;*/
+	float:left;
+}
+.picsm {
+	/*display: block;*/
+	float: center;
+}
+.picsr {
+	/*display: block;*/
+	float:right;
+}
+.special {
+	text-align: center;
+	color:#F7F7F7;
+}
